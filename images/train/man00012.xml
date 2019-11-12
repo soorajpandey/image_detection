@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>man</folder>
+	<filename>man00012.jpg</filename>
+	<path>/Users/soorajpandey/Downloads/Videos/men-women-classification/man/man00012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>19</ymin>
+			<xmax>194</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>woman</folder>
+	<filename>woman00063.jpg</filename>
+	<path>/Users/soorajpandey/Downloads/Videos/men-women-classification/woman/woman00063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4583</width>
+		<height>3056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1069</xmin>
+			<ymin>95</ymin>
+			<xmax>4359</xmax>
+			<ymax>3050</ymax>
+		</bndbox>
+	</object>
+</annotation>

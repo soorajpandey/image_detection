@@ -28,7 +28,7 @@ cymem==2.0.2
 Cython==0.29.14
 decorator==4.4.1
 defusedxml==0.6.0
-Django==2.2.10
+Django==2.2.24
 django-appconf==1.0.3
 django-imagekit==4.0.2
 django-inline-svg==0.1.1
